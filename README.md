@@ -1,6 +1,6 @@
-# my-pabrik Mobil Dapps
+# My-pabrik Mobil Dapps
 
-Adalah Sebuah Contoh Kode yang Dimana dimaksudkan Untuk Pemebalajar Memahami Bagaiamana Smart Contract Dan Front End(React Js) Berinteraksi.
+Adalah Sebuah Contoh Kode yang Dimana dimaksudkan Untuk Pemebalajaran Memahami Bagaiamana Smart Contract Dan Front End(React Js) Berinteraksi.
 
 # Cara Penggunaan
 - SETELAH REPO DI CLONE / DOWNLOAD
@@ -10,3 +10,6 @@ Adalah Sebuah Contoh Kode yang Dimana dimaksudkan Untuk Pemebalajar Memahami Bag
 - KEMUDIAN NPM RUN DEV
   
 
+# Cara Mengatasi Error(BUG)
+- Bisa Mencari Dahulu Solusi Dengan Ai
+- Bisa Bertanya Di Grop Yang Sudah Di Sediakan
