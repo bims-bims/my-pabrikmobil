@@ -15,3 +15,6 @@ Adalah Sebuah Aplikasi yang Dimana dimaksudkan Untuk Pemebalajaran Memahami Baga
 # Cara Mengatasi Error(BUG)
 - Bisa Mencari Dahulu Solusi Dengan Ai
 - Bisa Bertanya Di Grop Yang Sudah Di Sediakan
+
+
+        Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas `[MIT]` untuk detailnya
