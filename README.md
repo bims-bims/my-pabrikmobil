@@ -2,7 +2,7 @@
 ![MobilQu Dapps](https://crimson-high-eagle-384.mypinata.cloud/ipfs/bafkreibddcwx6oj7mn6ibot4okggumff6gkw4keezytuss4axc2gbtjbpy)
 
 Adalah Sebuah Contoh Kode yang Dimana dimaksudkan Untuk Pemebalajaran Memahami Bagaiamana Smart Contract Dan Front End
-(React Js) Berinteraksi.
+(React Js) Berinteraksi. Untuk Penjelasan Smart Contract Object Oriented Programming.
 
 # Cara Penggunaan
 - SETELAH REPO DI CLONE / DOWNLOAD
