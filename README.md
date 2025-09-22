@@ -17,4 +17,4 @@ Adalah Sebuah Aplikasi yang Dimana dimaksudkan Untuk Pemebalajaran Memahami Baga
 - Bisa Bertanya Di Grop Yang Sudah Di Sediakan
 
 
-        Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas `[MIT]` untuk detailnya
+        Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas `[MIT]('mit')` untuk detailnya
