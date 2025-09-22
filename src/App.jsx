@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ethers } from "ethers";
 
 const contractABI = []//pastikan abi mu disini;
-const contractAddress = "0x...."; // ganti dengan alamat kontrakmu
+const contractAddress = ""; // ganti dengan alamat kontrakmu
 
 export default function App() {
   const [mobil, setMobil] = useState(null);
@@ -29,7 +29,7 @@ export default function App() {
     try {
       const provider = new ethers.BrowserProvider(window.ethereum);
       const contract = new ethers.Contract(contractAddress, contractABI, provider);
-      const data = await contract.getDataMobil();
+      const data = await contract.getStnk();
       setMobil({
         nama: data[0],
         warna: data[1],
